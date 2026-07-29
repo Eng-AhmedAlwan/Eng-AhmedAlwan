@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ahmed Alwan 👋
 
-<!--
-**Eng-AhmedAlwan/Eng-AhmedAlwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Telecommunications & Network Engineer
 
-Here are some ideas to get you started:
+I am a Telecommunications and Network Engineer passionate about designing, implementing, and securing modern network infrastructures. I enjoy learning new technologies and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Routing & Switching
+- TCP/IP
+- Network Security
+- Fiber Optics
+- Network Services
+- Cisco Technologies
+- MATLAB
+- Git & GitHub
+
+## Currently Learning
+
+- CCNA
+- Python for Network Automation
+- Cybersecurity
+- Cloud Networking
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/eng-ahmedalwan
