@@ -25,4 +25,4 @@ I am a Telecommunications and Network Engineer passionate about designing, imple
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/eng-ahmedalwan
-- WhatsApp +967775080971
+- https://wa.me/967775080971?text=Hello%20Engineer%20Ahmed
