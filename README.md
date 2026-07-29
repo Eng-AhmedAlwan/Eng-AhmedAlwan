@@ -23,6 +23,6 @@ I am a Telecommunications and Network Engineer passionate about designing, imple
 - Cloud Networking
 
 ## Contact
-
-- LinkedIn: https://www.linkedin.com/in/eng-ahmedalwan
-- https://wa.me/967775080971?text=Hello%20Engineer%20Ahmed
+-📧 Email: eng.ahmedalwan11@gmail.com 
+-💼 LinkedIn: https://www.linkedin.com/in/eng-ahmedalwan
+-💬 WhatsApp: https://wa.me/967775080971?text=Hello%20Engineer%20Ahmed
