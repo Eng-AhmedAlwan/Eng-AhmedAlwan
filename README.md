@@ -7,13 +7,15 @@ I am a Telecommunications and Network Engineer passionate about designing, imple
 ## Skills
 
 - Routing & Switching
-- TCP/IP
+- MCSA
+- VLAN
+- Troubleshooting
+- Network design 
 - Network Security
-- Fiber Optics
 - Network Services
 - Cisco Technologies
 - MATLAB
-- Git & GitHub
+- Network engineering 
 
 ## Currently Learning
 
