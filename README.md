@@ -31,12 +31,6 @@ Telecommunications and Network Engineer with an interest in network infrastructu
 - Python for Network Automation
 - Cybersecurity
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Eng-AhmedAlwan&theme=dark&hide_border=true" />
-</p>
-
 ## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.ahmedalwan11@gmail.com )
 
