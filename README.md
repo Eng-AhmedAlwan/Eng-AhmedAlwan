@@ -25,5 +25,5 @@ I am a Telecommunications and Network Engineer passionate about designing, imple
 
 ## Contact
 -📧 Email: eng.ahmedalwan11@gmail.com 
--💼 LinkedIn:<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
--💬 WhatsApp: https://wa.me/967775080971?text=Hello%20Engineer%20Ahmed
+-💼 LinkedIn:https://www.linkedin.com/in/eng-ahmedalwan
+-💬 WhatsApp: https://wa.me/967775080971?text=Hello%20Engineer%20Ahmed 
