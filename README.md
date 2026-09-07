@@ -19,6 +19,7 @@ Telecommunications and Network Engineer with an interest in network infrastructu
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,github,matlab" height="50" alt="Windows GitHub MATLAB" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="50" height="50" alt="Cisco Packet Tracer" />
     <img src="https://cdn.simpleicons.org/cisco/white" width="50" height="50" alt="Cisco" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   <img src="https://cdn.simpleicons.org/wireshark" width="50" height="50" alt="Wireshark" />
