@@ -22,7 +22,6 @@ I am a Telecommunications and Network Engineer passionate about designing, imple
 - CCNA
 - Python for Network Automation
 - Cybersecurity
-- Cloud Networking
 
 ## Contact
 -📧 Email: eng.ahmedalwan11@gmail.com 
