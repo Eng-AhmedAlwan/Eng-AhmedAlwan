@@ -2,8 +2,7 @@
 
 ## Telecommunications & Network Engineer
 
-I am a Telecommunications and Network Engineer passionate about designing, implementing, and securing modern network infrastructures. I enjoy learning new technologies and continuously improving my technical skills.
-
+Telecommunications and Network Engineer with an interest in network infrastructure, routing & switching, network security, and telecommunications technologies. Passionate about continuous learning, practical networking, and building reliable network solutions.
 ## Skills
 
 - Routing & Switching
@@ -15,13 +14,28 @@ I am a Telecommunications and Network Engineer passionate about designing, imple
 - Network Services
 - Cisco Technologies
 - MATLAB
-- Network engineering 
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,github,matlab" height="50" alt="Windows GitHub MATLAB" />
+    <img src="https://cdn.simpleicons.org/cisco/white" width="50" height="50" alt="Cisco" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/wireshark" width="50" height="50" alt="Wireshark" />
+<img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="50" height="50" alt="GNS3" />
+</p>
 
 ## Currently Learning
 
 - CCNA
 - Python for Network Automation
 - Cybersecurity
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Eng-AhmedAlwan&theme=dark&hide_border=true" />
+</p>
 
 ## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.ahmedalwan11@gmail.com )
