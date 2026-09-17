@@ -24,6 +24,7 @@ Telecommunications and Network Engineer with an interest in network infrastructu
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   <img src="https://cdn.simpleicons.org/wireshark" width="50" height="50" alt="Wireshark" />
 <img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="50" height="50" alt="GNS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width="50" height="50" alt="PuTTY" />
 </p>
 
 ## Currently Learning
