@@ -34,10 +34,17 @@ Telecommunications and Network Engineer with an interest in network infrastructu
 - Cybersecurity
 
 ## 📫 Connect With Me
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:eng.ahmedalwan11@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gmail/default.svg" width="50" height="50" alt="Gmail" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Alwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ye.linkedin.com/in/eng-ahmedalwan)
+<a href="https://www.linkedin.com/in/eng-ahmedalwan" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50" height="50" alt="LinkedIn" />
+</a>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967775080971)
+<a href="https://wa.me/967775080971" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+       width="50"
+       height="50"
+       alt="WhatsApp" />
+</a>
