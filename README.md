@@ -22,7 +22,9 @@ Telecommunications and Network Engineer with an interest in network infrastructu
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" width="50" height="50" alt="Cisco Packet Tracer" />
     <img src="https://cdn.simpleicons.org/cisco/white" width="50" height="50" alt="Cisco" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
-  <img src="https://cdn.simpleicons.org/wireshark" width="50" height="50" alt="Wireshark" />
+<a href="https://www.wireshark.org/" target="_blank">
+  <img src="https://gitlab.com/wireshark/wireshark/-/raw/v4.4.1/resources/icons/wsicon128.png" width="50" height="50" alt="Wireshark" />
+</a>
 <img src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_logo.png" width="50" height="50" alt="GNS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width="50" height="50" alt="PuTTY" />
 </p>
